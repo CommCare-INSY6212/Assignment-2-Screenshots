@@ -6,7 +6,7 @@ This repository contains all the screenshots and issue log items required.
 | Name                          | Student Number |
 |-------------------------------|----------------|
 | Sashveer Lakhan Ramjathan     | ST10361554      |
-| Shravan Ramjathan             | ST10361554      |
+| Shravan Ramjathan             | ST10247982      |
 | Blaise Mikka de Gier          | ST10249838      |
 | Uvaan Covenden          | ST10022006      |
 
