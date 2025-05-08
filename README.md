@@ -17,6 +17,9 @@ You can browse the overview of our GitHub Organisation here: https://github.com/
 
 In this repository click the button labeled *issues*, this will redirect you to the issue log associated our project.
 
+![image](https://github.com/user-attachments/assets/1dc9b4de-5c4d-4798-87fd-737e3647c20d)
+
+
 ## Viewing Milestones
 
 In this repository's issue log, click the button labeled *Milestones*. This will bring up all this project's milestones
